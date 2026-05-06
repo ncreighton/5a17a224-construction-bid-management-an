@@ -2,6 +2,7 @@
 
 
 
+
 ---
 
 ## Free vs Pro
@@ -22,5 +23,9 @@
 
 Get the full version with all premium features, priority support, and lifetime updates.
 
-**[Get Pro Version](https://wizardsmith2.gumroad.com/l/xurnn)**
+**[Get Pro Version](https://buy.stripe.com/aFa8wP4eP8Is1dedI0cZa0G)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/aFa8wP4eP8Is1dedI0cZa0G)
+- [Buy on Gumroad](https://wizardsmith2.gumroad.com/l/xurnn)
+- [Buy on Whop](https://whop.com/construction-bid-management-and-subcontractor-qualification-workflow)
 
